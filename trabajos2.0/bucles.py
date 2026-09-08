@@ -17,7 +17,9 @@ while numero != usuario and intentos < 5:
         print(" es menor")
         usuario = int(input("dame un numero"))
         contador += 1
-        intentos += 1 
+        intentos += 1
+        asistencias +=1
+
 if intentos < 5 and usuario == numero:
     print("correcto")
     print (f"usaste {contador} intentos")

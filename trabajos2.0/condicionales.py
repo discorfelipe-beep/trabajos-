@@ -12,3 +12,4 @@ else:
     renta >= 35000
     resultado = renta + (renta * 0.30)
     print("tu renta es del 30% y en total es",resultado)
+
