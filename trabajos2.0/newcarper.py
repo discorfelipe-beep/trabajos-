@@ -1,5 +1,5 @@
 import random
-numero = random.randint(1,10)
+numero = random.randint(1,20)
 usuario = int(input("dame un numero"))
 
 contador = 0 
