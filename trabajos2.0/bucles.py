@@ -25,5 +25,3 @@ if intentos < 5 and usuario == numero:
     print (f"usaste {contador} intentos")
 else: 
     print("perdiste, el numero era:",numero)
-    
-     
